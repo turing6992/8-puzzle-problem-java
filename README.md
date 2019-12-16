@@ -19,3 +19,4 @@ The process:
 
 * it is then passed as a Vector to the main class and the solution is displayed step by step
 
+[Solver UI](https://github.com/turing6992/8-puzzle-problem-java/blob/master/DFS/src/image/Capture.JPG)
